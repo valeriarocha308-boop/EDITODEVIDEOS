@@ -1,0 +1,109 @@
+FUENTES — JOSÉ DAVID, REVISIÓN 2
+Edición: subtítulos blancos arriba, márgenes para Reels, fundidos, B-roll, gráficos, música y efectos.
+
+MÚSICA Y EFECTOS
+MUSIC RECOMMENDED
+Digital Clouds — Alejandro Magaña (A. M.)
+Original source: https://assets.mixkit.co/music/175/175.mp3
+Listing: https://mixkit.co/free-stock-music/corporate/
+Official genres/tags: Chillout; Electronic; Positive; Futuristic; Bass; Drums; Technology; Industry.
+License: Mixkit Stock Music Free License
+https://mixkit.co/license/#musicFree
+Full license fetched from https://mixkit.co/license/modal/musicFree/ and saved alongside.
+License allows commercial and non-commercial web/social-media video, online ads, podcasts, educational uses. Not allowed CDs/DVDs, TV/radio broadcast, video games, standalone music remix, ownership claim or rights-management registration.
+File: digital-clouds-mixkit175.mp3 (original101.0155sec)
+Prepared file: music-bed-98s.m4a,98.666667sec,48kHz stereo AAC192k,highpass65Hz,lowpass12kHz,normalize target-30LUFS,fadein1.2sec,fadeout95.4–98.666667sec. Recommended volume1.0 under dialogue normalized-16LUFS; lower to0.45 on key spoken questions.
+
+ALTERNATE MUSIC
+Curiosity — Diego Nava
+Source: https://assets.mixkit.co/music/480/480.mp3
+Same Mixkit Stock Music Free License.
+File curiosity-mixkit480.mp3,100.179592sec.
+
+SFX
+Remotion's documented sound-effects library (skill remotion-markup/sfx.md):
+mouse-click.wav — https://remotion.media/mouse-click.wav
+page-turn.wav — https://remotion.media/page-turn.wav
+whip.wav — https://remotion.media/whip.wav
+soft-whip.wav is filtered derivative of whip.wav: lowpass7kHz,volume0.45.
+No comic/meme effects used. Recommended mouseclick0.08–0.15; pageturn0.15–0.25; softwhip0.25–0.40 depending on dialogue.
+
+
+B-ROLL Y FOTOGRAFÍA
+Charging the Electric Car
+Autor: Kindel Media
+Origen: https://www.pexels.com/video/charging-the-electric-car-9790212/
+Licencia: https://www.pexels.com/license/
+
+
+A White Electric Car Charging
+Autor: Kindel Media
+Origen: https://www.pexels.com/video/a-white-electric-car-charging-9790139/
+Licencia: https://www.pexels.com/license/
+
+
+Fuel Pump in a Gasoline Station
+Autor: maroc editor
+Origen: https://www.pexels.com/video/fuel-pump-in-a-gasoline-station-4092536/
+Licencia: https://www.pexels.com/license/
+
+
+Aerial View of Busy Urban Highway Traffic
+Autor: Grigoriy Bunkov
+Origen: https://www.pexels.com/video/aerial-view-of-busy-urban-highway-traffic-37164324/
+Licencia: https://www.pexels.com/license/
+
+
+ev-driving.mp4
+Autor: Aidar Gabdrakhman
+Origen: https://www.pexels.com/video/tesla-19147672/
+Licencia: https://www.pexels.com/license/
+
+
+solar-parking.mp4
+Autor: Kindel Media
+Origen: https://www.pexels.com/video/a-white-car-in-a-solar-panel-parking-lot-9790201/
+Licencia: https://www.pexels.com/license/
+
+
+fuel-refill.mp4
+Autor: Shoot With Riyas
+Origen: https://www.pexels.com/video/a-person-refilling-gas-on-a-car-9109484/
+Licencia: https://www.pexels.com/license/
+
+
+finance-calculator.mp4
+Autor: kaboompics
+Origen: https://www.pexels.com/video/counting-finance-7710744/
+Licencia: https://www.pexels.com/license/
+
+
+tax-coins.mp4
+Autor: Monstera Production
+Origen: https://www.pexels.com/video/tax-on-stacks-of-gold-coins-5849643/
+Licencia: https://www.pexels.com/license/
+
+
+solar-aerial.mp4
+Autor: Hamzah Tariq
+Origen: https://www.pexels.com/video/aerial-shot-of-solar-panels-on-the-field-6967455/
+Licencia: https://www.pexels.com/license/
+
+
+fuel-station.mp4
+Autor: Nothing Ahead
+Origen: https://www.pexels.com/video/busy-urban-gas-station-with-cars-refueling-40304917/
+Licencia: https://www.pexels.com/license/
+
+
+coins-savings.mp4
+Autor: Adrian Frentescu
+Origen: https://www.pexels.com/video/person-placing-coin-on-stacks-of-ten-romanian-bani-coins-8661806/
+Licencia: https://www.pexels.com/license/
+
+
+CapitolioNacional.jpg
+Autor: Pablo H
+Origen: https://commons.wikimedia.org/wiki/File:CapitolioNacional.jpg
+Licencia: https://creativecommons.org/licenses/by/2.0/
+Capitolio Nacional: Pablo H / Wikimedia Commons, CC BY 2.0. Recorte y animación aplicados. https://commons.wikimedia.org/wiki/File:CapitolioNacional.jpg https://creativecommons.org/licenses/by/2.0/
